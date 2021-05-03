@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimageStitch.a  CMakeFiles/imageStitch.dir/imageStitch/imageStitch.cpp.o
+/usr/bin/ranlib libimageStitch.a

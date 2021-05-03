@@ -1,0 +1,7 @@
+/home/yushilin/workspace/myCode/imageStitch/video_stitch/mining_hole/build/CMakeFiles/rebuild_cache.dir
+/home/yushilin/workspace/myCode/imageStitch/video_stitch/mining_hole/build/CMakeFiles/edit_cache.dir
+/home/yushilin/workspace/myCode/imageStitch/video_stitch/mining_hole/build/CMakeFiles/app.dir
+/home/yushilin/workspace/myCode/imageStitch/video_stitch/mining_hole/build/src/CMakeFiles/rebuild_cache.dir
+/home/yushilin/workspace/myCode/imageStitch/video_stitch/mining_hole/build/src/CMakeFiles/edit_cache.dir
+/home/yushilin/workspace/myCode/imageStitch/video_stitch/mining_hole/build/src/CMakeFiles/imageStitch.dir
+/home/yushilin/workspace/myCode/imageStitch/video_stitch/mining_hole/build/src/CMakeFiles/util.dir
